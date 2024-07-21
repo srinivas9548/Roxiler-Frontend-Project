@@ -1,3 +1,6 @@
+### Published Frontend Project
+https://roxiler-frontend-srinivas-project.vercel.app
+
 # Frontend Task
 
     By using above created apis, create the following table and charts on single page.
